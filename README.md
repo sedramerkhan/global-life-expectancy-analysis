@@ -10,6 +10,17 @@ An exploratory data analysis (EDA) and predictive modeling project that examines
 
 ---
 
+## 🛠️ Tech Stack
+
+* **Language:** Python
+* **Data Manipulation & Analysis:** Pandas, NumPy
+* **Data Visualization:** Matplotlib, Seaborn
+* **Statistical Testing & Machine Learning:** Scikit-learn, SciPy
+* **Geographical Data Processing:** Pycountry-convert
+* **Environment:** Jupyter Notebook
+
+---
+
 ## ⚙️ Methodology & Key Findings
 
 ### 1. Data Cleaning & Preprocessing
